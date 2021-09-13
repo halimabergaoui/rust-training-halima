@@ -1,0 +1,19 @@
+[workspace]
+members = [
+    "variables", 
+    "modules",
+    "tables",
+    "tuples",
+    "vectors",
+    "memory",
+    "references",
+    "slices",
+    "strings", 
+    "enums",
+    "functions",
+    "structs",
+    "traits",
+    "generic_struct",
+    "condition",
+    "halimalib"
+]

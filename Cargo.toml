@@ -38,5 +38,15 @@ members = [
     "extend",
     "partition",
     "collection",
-    "splitting"
+    "splitting",
+    "swapping",
+    "file_read",
+    "stdin",
+    "write",
+    "vm_example",
+    "vm_example_macro",
+    "attribute",
+    "attribute_derive",
+    "attribute_diagnos",
+    "ranges"
 ]
